@@ -4,7 +4,7 @@
   --primary: #016eeb;
   --light: #f6f7f8;
   /* --dark: #1A2A36; */
-  --dark: #231f20;
+  --dark: hsl(345, 6%, 13%);
 }
 
 .fw-medium {
@@ -593,4 +593,9 @@
 .td-info{
     color: #000;
     font-weight: 500;
+}
+
+
+.logo{
+  width: 200px;
 }

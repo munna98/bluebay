@@ -3681,6 +3681,7 @@ fieldset:disabled .btn {
   margin-right: 1rem;
   font-size: 1.25rem;
   white-space: nowrap;
+  
 }
 .navbar-nav {
   display: flex;
@@ -6786,8 +6787,9 @@ fieldset:disabled .btn {
   color: #016eeb !important;
 }
 .text-primary-logo {
-  color: #016eeb !important;
+  color: #231f20 !important;
   font-family: 'Ubuntu', sans-serif;
+  font-weight: 800;
 }
 .text-secondary {
   color: #6c757d !important;
